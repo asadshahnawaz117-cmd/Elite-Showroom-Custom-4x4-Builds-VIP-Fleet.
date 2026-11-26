@@ -1,0 +1,6 @@
+{
+  "name": "Apex Motors & Customs",
+  "description": "Elite automotive showroom, custom 4x4 modifications, and luxury vehicle rental platform featuring Land Cruiser Prado, Hilux Revo, Corolla Altis, Civic, and Fortuner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
